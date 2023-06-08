@@ -1,0 +1,40 @@
+h1 {
+font-family: 'Roboto', sans-serif;
+text-align:center
+}
+
+img{
+    transition: 1s;
+    width:60%
+    
+    
+}
+
+a{
+    color: blue;
+    font-size: 15px;
+text-decoration:none;
+text-align: center;
+font-family: 'Roboto', sans-serif
+
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+line-height: 20px;
+
+}
+
+a:hover{
+    color: aquamarine;
+    font-size: 20px;
+}
+img:hover{
+
+    align-items: center;
+}
+h1:hover{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    color: brown;
+}
